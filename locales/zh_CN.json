@@ -1,29 +1,23 @@
 {
     "data":[
         {
-          "title": "Winds无政府 | 1.7.2 - 1.19.2",
-          "server_name": "Winds无政府",
+          "title": "Naixi摸鱼服 | 1.7.2 - 1.19.2",
+          "server_name": "奶昔摸鱼服",
           "feature": "特色",
           "team": "服务器团队",
           "screenshots": "风景欣赏",
-          "forum": "论坛",
-          "description1": "一个 1.19 Minecraft无政府生存服务器<br /> 致力于提供良好的纯净生存体验",
+          "homepage": "主页",
+          "description1": "一个 1.19.2 Minecraft群组服务器<br /> 多样玩法 | 新体验 <br /><b> IP mc.naixi.eu.org",
           "group": "点击加群",
           "portal": "传送门",
           "lang": "语言",
-          "feature1": "特色生存",
-          "feature2": "高度自由",
-          "feature3": "流畅不卡",
-          "feature4": "专业的管理团队",
-          "description2": "无规则, 原创地图, 更有挑战性, 非2B2T官服地图. 适当限制了飞行和变速齿轮, 并清除了破坏平衡的非法物品",
-          "description3": "没有排队系统, 没有白名单, 没有正版验证, 没有漏洞修复, 没有红石限制, 没有神权. 支持所有id注册(包括中文id), 以及基岩版进服",
-          "description4": "由高配主机强力驱动, 多条BGP线路容灾. 高度优化, 始终保持TPS 19-20和极低的mspt =w=",
-          "description5": "我们拥有多年的服务器管理运维经验. 发现bug时, 我们会在5分钟内给出解决方案并解决. 服主很阔爱, 欢迎骚扰服主qwq",
-          "block": "下一代<br /> 无政府生存服",
-          "description6": "强大的服务器团队, 拥有多年运维开发经验.",
-          "dreeam": "服主",
-          "knelauncher": "服务商",
-          "limengzestudio": "服务商"
+          "description2": "405 其实没有但是我要骗你没找到",
+          "description3": "因为奶昔懒 所以这里不想写qwq",
+          "description4": "'弱小'的服务器团队, 没有多年运维开发经验.",
+          "naixinana": "服主",
+          "Dreeam": "技术",
+          "xiaokong23357": "屁不放一个滴友服腐竹",
+          "Smart_Yanmeng": "技术顾问"
         }
       ]
 }
